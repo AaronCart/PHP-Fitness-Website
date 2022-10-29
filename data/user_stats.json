@@ -1,0 +1,14 @@
+{
+    "abc@gmail.com": {
+        "mowing-the-lawn": [
+            {
+                "date": "12\/06\/2021",
+                "minutes": 5,
+                "goal": 9,
+                "weight": 56,
+                "ageMf": 20,
+                "bmi": 123
+            }
+        ]
+    }
+}

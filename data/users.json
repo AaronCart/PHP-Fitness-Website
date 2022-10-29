@@ -1,0 +1,19 @@
+{
+    "aaron@gmail.com": {
+        "firstname": "Aaron",
+        "surname": "Cartledge",
+        "email": "aaron@gmail.com",
+        "membership": "family",
+        "duration": "ongoing",
+        "password": "Abc&123"
+    },
+    "abc@gmail.com": {
+        "firstname": "ABC",
+        "surname": "DEF",
+        "email": "abc@gmail.com",
+        "membership": "individual",
+        "age": "20",
+        "duration": "ongoing",
+        "password": "Hello!23"
+    }
+}

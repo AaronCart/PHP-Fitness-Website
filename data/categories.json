@@ -1,0 +1,32 @@
+{
+    "gardening": {
+        "key": "gardening",
+        "name": "Gardening",
+        "image-name": "gardening.png"
+    },
+    "motorcycle-riding": {
+        "key": "motorcycle-riding",
+        "name": "Motorcycle Riding",
+        "image-name": "motorbike.png"
+    },
+    "mowing-the-lawn": {
+        "key": "mowing-the-lawn",
+        "name": "Mowing the lawn",
+        "image-name": "mowing-the-lawn.png"
+    },
+    "shopping": {
+        "key": "shopping",
+        "name": "Shopping",
+        "image-name": "shopping.png"
+    },
+    "walking": {
+        "key": "walking",
+        "name": "Walking",
+        "image-name": "walking.png"
+    },
+    "walking-the-dog": {
+        "key": "walking-the-dog",
+        "name": "Walking the dog",
+        "image-name": "walking-the-dog.png"
+    }
+}
